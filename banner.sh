@@ -434,7 +434,7 @@ while true; do
                 sleep 1
                 xdg-open "https://t.me/maxtonxbot_bot"
                 cd "$HOME"
-            	rm -rf maxton
+            	rm -rf CODEX
                 exit 0
                 ;;
         esac
